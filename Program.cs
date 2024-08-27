@@ -102,8 +102,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            //Contact c1 = new Contact("Adi", 9579342442, "Email@gmail.com", "India");
-            //Contact c2 = new Contact("Raj", 9579342443, "Raj@gmail.com", "India");
+            //Contact c1 = new Contact("Adi", 95793, "Email@gmail.com", "India");
+            //Contact c2 = new Contact("Raj", 95793, "Raj@gmail.com", "India");
 
             ContactManager cm = new ContactManager();
             while (true)
